@@ -7,7 +7,7 @@ back to Firebase.
 
 ## Live Preview
 
-🔗 **[View live demo](PUT_YOUR_LIVE_URL_HERE)**
+🔗 **[View live demo] https://sadiangabaytreshold.netlify.app/**
 
 > Replace `PUT_YOUR_LIVE_URL_HERE` with your deployed URL (e.g. your GitHub Pages link).
 
